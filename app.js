@@ -82,7 +82,7 @@ document.getElementById('book-form').addEventListener('submit', function (e) {
     }
 
 
-    e.preventDefault;
+    e.preventDefault();
 });
 
 // Event listener for deleting a book
